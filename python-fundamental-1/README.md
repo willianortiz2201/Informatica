@@ -1,14 +1,19 @@
-# Curso — Python Fundamental 1
+# | Curso — Python Fundamental 1
 
-### Sobre o curso
+
+###  | Sobre o curso
+
 
 Curso introdutório de Python com foco nos fundamentos da programação e no desenvolvimento da lógica computacional.
 
+
 ---
 
-## Conteúdo
 
-### Módulo 01 — Introdução à Programação e à Linguagem Python
+## | Conteúdo
+
+
+### | Módulo 01 — Introdução à Programação e à Linguagem Python
 
 Apresentação dos conceitos iniciais de programação e introdução à linguagem Python, com foco na compreensão da estrutura básica de um programa.
 
@@ -20,15 +25,15 @@ Ao final do módulo, foram realizados testes práticos utilizando a função `pr
 
 ---
 
-### Módulo 02
+### | Módulo 02
 
-### Módulo 03
+### | Módulo 03
 
-### Módulo 04
+### | Módulo 04
 
 ---
 
-## Aprendizados
+## | Aprendizados
 
 * Fundamentos da lógica de programação
 * Estrutura básica da linguagem Python
@@ -37,7 +42,7 @@ Ao final do módulo, foram realizados testes práticos utilizando a função `pr
 
 ---
 
-## Certificado
+## | Certificado
 
 ![Certificado](./imagens/certificado.png)
 
