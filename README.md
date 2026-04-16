@@ -1,4 +1,4 @@
-# | Informática - Logística (1º Semestre) | FATEC PROF. JESSEN VIDAL
+#  Informática - Logística (1º Semestre) | FATEC PROF. JESSEN VIDAL
 
 Desenvolvimento prático em análise de dados, ferramentas digitais e lógica de programação
 
