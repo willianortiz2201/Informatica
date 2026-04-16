@@ -8,11 +8,11 @@ Curso introdutório de Python com foco nos fundamentos da programação e no des
 
 ## Conteúdo
 
-### Módulo 01 — Introdução à Programação e à Linguagem Python
+### ### Módulo 01 — Introdução à Programação e à Linguagem Python
 
-Apresentação dos conceitos iniciais de programação e introdução à linguagem Python, com foco na compreensão da estrutura básica de um programa.
+Introdução aos conceitos básicos de programação e à linguagem Python.
 
-Ao final do módulo, foram realizados testes práticos utilizando a função `print` para exibição de informações.
+Uso inicial da função `print` para exibir informações.
 
 #### Exemplo de prática
 
@@ -22,13 +22,13 @@ Ao final do módulo, foram realizados testes práticos utilizando a função `pr
 
 ### Módulo 02 — Dados e Operadores
 
-Estudo dos tipos de dados e utilização de operadores para realização de operações básicas.
+Introdução aos tipos de dados e operações básicas em Python.
 
 ---
 
 #### Literais e Tipos de Dados
 
-Introdução aos diferentes tipos de dados em Python e seus valores literais.
+Apresentação dos principais tipos de dados.
 
 ![Módulo 02.1](./imagens/modulo-2-01.png)
 
@@ -36,23 +36,66 @@ Introdução aos diferentes tipos de dados em Python e seus valores literais.
 
 #### Expressões Matemáticas
 
-Aplicação de operadores para realizar cálculos e expressões matemáticas.
+Uso de operadores para realizar cálculos.
 
 ![Módulo 02.2](./imagens/modulo-2-02.png)
 
 
-### Módulo 03
+### Módulo 03 — Variáveis e Interação com o Usuário
 
-### Módulo 04
+Criação de variáveis e interação com o usuário.
+
+---
+
+#### Variáveis e Tipos de Dados
+
+Definição de variáveis e uso de diferentes tipos.
+
+![Módulo 03.1](./imagens/modulo-3-01.png)
+
+---
+
+#### Entrada de Dados e Conversão
+
+Leitura de dados do usuário e conversão entre tipos.
+
+---
+
+#### Conversão de Tipos e Arredondamentos
+
+Conversão entre diferentes tipos de dados e aplicação de arredondamentos em valores numéricos.
+
+![Módulo 03.2](./imagens/modulo-3-02.png)
+
+
+### Módulo 04 — Estruturas Condicionais
+
+Introdução ao uso de condições em programas Python.
+
+---
+
+#### Operadores Relacionais e Condições
+
+Uso de operadores para comparar valores e criar condições.
+
+![Módulo 04.1](./imagens/modulo-4-01.png)
+
+---
+
+#### Operadores Lógicos
+
+Aplicação de operadores lógicos para combinar condições.
+
+![Módulo 04.2](./imagens/modulo-4-02.png)
+
 
 ---
 
 ## Aprendizados
-
-* Fundamentos da lógica de programação
-* Estrutura básica da linguagem Python
-* Manipulação de dados e variáveis
-* Uso de condicionais para controle de fluxo
+- Estrutura básica da linguagem Python
+- Manipulação de variáveis e dados
+- Uso de operadores e condições
+- Interação com o usuário
 
 ---
 
